@@ -10,6 +10,11 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		//https://github.com/sd-davi/backend_teste.git
+
+		/* git add .
+		   git commit -m "mensagem do que mudou"
+		   git push
+			*/
 	}
 
 }
